@@ -3,10 +3,10 @@
 </p>
 
 <h1 align="center">
- LinedIn Mern Clone
+ LinedIn Mysqlern Clone
 </h1>
 
-Clone completo do LinkedIn web feito com Mern Stack ( Mongodb, Express, React Js e Node Js)
+Clone completo do LinkedIn web feito com Mysqlern Stack ( Mysql, Express, React Js e Node Js)
 
 🚧 **Ainda em Construção** 🚧
 
@@ -20,7 +20,7 @@ Clone completo do LinkedIn web feito com Mern Stack ( Mongodb, Express, React Js
 ## Como executar o front end
 
 ```bash
-git clone https://github.com/GustavoNoronha0/LinkedInMernClone
+git clone https://github.com/GustavoNoronha0/LinkedInMysqlernClone
 $ cd frontend
 $ npm install
 $ npm start
@@ -29,7 +29,7 @@ $ npm start
 ## Como executar o back end
 
 ```bash
-git clone https://github.com/GustavoNoronha0/LinkedInMernClone
+git clone https://github.com/GustavoNoronha0/LinkedInMysqlernClone
 $ cd backend
 $ npm install
 $ npm run dev
