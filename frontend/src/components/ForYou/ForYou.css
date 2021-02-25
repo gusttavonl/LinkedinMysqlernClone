@@ -1,0 +1,60 @@
+.forYou{
+    padding: 10px;
+}
+.forYouHeader{
+    display: flex;
+    flex-direction: row;
+}
+
+.forYouHeader > h3{
+    font-size: 17px;
+    padding: 5px;
+}
+
+.forYouHeader > p {
+    font-weight: bold;
+    margin-left: 110px;
+    font-size: 14px;
+    border-radius: 14px;
+    background-color: lightgray;
+    padding: 7px;
+}
+
+ul{
+    list-style-type: none;
+    margin-left: -40px;
+  
+}
+
+ul > li{
+    margin-top: 25px;
+    display: flex;
+    flex-direction: row;
+}
+
+.forYouBodyText{
+    display: flex;
+    flex-direction: column;
+}
+
+.forYouBodyText > h3 {
+    font-size: 17px;
+    margin-left: 10px;
+}
+
+.forYouBodyText > h4 {
+    font-size: 15px;
+    margin-left: 15px;
+    color: gray;
+    margin-top: -7px;
+}
+
+.forYouBodyFollow{
+    font-weight: bold;
+    margin-left: 90px;
+    font-size: 14px;
+    border-radius: 14px;
+    background-color: #fff;
+    padding: 7px;
+    color: blue;
+}
