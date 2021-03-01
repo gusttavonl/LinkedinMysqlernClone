@@ -57,7 +57,7 @@ module.exports = {
             usuario,
             descricaoUsuario
         } = req.body;
-        const publicacoes = await Publicacao.destroy({
+        const publicacoes = await Publicacao.update({
             titulo,
             imagem,
             usuario,
